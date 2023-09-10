@@ -1,4 +1,4 @@
-[debug] [training-project-build] Classpath dependencies List()
-[debug] [training-project-build] Dependencies from configurations List()
-[debug] Bloop wrote the configuration of project 'training-project-build' to 'C:\Users\yweij\Desktop\Scala\training-project\project\.bloop\training-project-build.json'
-[success] Generated .bloop\training-project-build.json
+[debug] [udemy-scala-rockthejvm-build] Classpath dependencies List()
+[debug] [udemy-scala-rockthejvm-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'udemy-scala-rockthejvm-build' to '/Users/yannick.weijenberglinkit.nl/git-repos/udemy-scala-rockthejvm/project/.bloop/udemy-scala-rockthejvm-build.json'
+[success] Generated .bloop/udemy-scala-rockthejvm-build.json

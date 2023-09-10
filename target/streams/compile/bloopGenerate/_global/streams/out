@@ -1,4 +1,4 @@
 [debug] [root] Classpath dependencies List()
 [debug] [root] Dependencies from configurations List()
-[debug] Bloop wrote the configuration of project 'root' to 'C:\Users\yweij\Desktop\Scala\training-project\.bloop\root.json'
-[success] Generated .bloop\root.json
+[debug] Bloop wrote the configuration of project 'root' to '/Users/yannick.weijenberglinkit.nl/git-repos/udemy-scala-rockthejvm/.bloop/root.json'
+[success] Generated .bloop/root.json

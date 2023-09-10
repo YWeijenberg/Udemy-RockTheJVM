@@ -1,3 +1,9 @@
+# Exclude scala metals configurations
+*.bloop
+*.metals
+project/
+target/
+
 #Git exclude 
 **/.git
 *.git
