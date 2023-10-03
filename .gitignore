@@ -2,7 +2,7 @@
 *.bloop
 *.metals
 project/
-target/
+**/target/
 
 #Git exclude 
 **/.git
